@@ -29,7 +29,7 @@ If you are familiar with conda environments, you can create a seperate environme
 ```bash
 conda env create -f environment.yml
 ```
-An environment named "used-cars" with necessary packages will be created. Use the command `conda activate csg` to use the environment. To return to your base environment, type `conda deactivate`.
+An environment named "csg" with necessary packages will be created. Use the command `conda activate csg` to use the environment. To return to your base environment, type `conda deactivate`.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
